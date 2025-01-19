@@ -18,6 +18,12 @@ This is a finance/expense tracking application built with React and Firebase. Th
 - React Router
 - Material-UI
 
+## Video Preview
+
+Watch a video preview of the application on YouTube:
+
+[![Expense Tracker Firebase React](https://img.youtube.com/vi/LNUzDLAmZM8/0.jpg)](https://www.youtube.com/watch?v=LNUzDLAmZM8)
+
 ## Getting Started
 
 ### Prerequisites
@@ -62,11 +68,11 @@ This is a finance/expense tracking application built with React and Firebase. Th
 3. View and manage your expenses from the dashboard.
 4. Filter expenses by category and view monthly summaries.
 
+
+
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
-
-
 
 ## Acknowledgements
 
